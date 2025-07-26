@@ -92,7 +92,7 @@
 .one{
   background: url('/1.svg') no-repeat;
   background-position: 50%; 
-  background-size: contain;
+  background-size: cover;
   
 }
 .one:hover{
