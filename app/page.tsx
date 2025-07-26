@@ -42,7 +42,7 @@ export default function Component() {
      
         {/* Links List */}
         <div className="space-y-4" dir="rtl">
-          <Link href="https://mzaert.com?label=85be58a46b415382d7a0f1debfb70664" className="flex items-center gap-4 p-4 rounded-xl one transition-colors group">
+          <Link href="#" className="flex items-center gap-4 p-4 rounded-xl one transition-colors group">
             <div className="w-8 h-8 flex items-center justify-center">
               <Globe size={20} className="text-gray-600 group-hover:text-gray-900" />
             </div>
@@ -51,7 +51,7 @@ export default function Component() {
 
         
           <div className="two">
-          <Link href="https://mzaert.com?label=ab7f053dbc94e62665aceb2ef6881eed"   className="flex items-center gap-4 p-4 rounded-xl   transition-colors group one  ">
+          <Link href="#"   className="flex items-center gap-4 p-4 rounded-xl   transition-colors group one  ">
             <div className="w-8 h-8 flex items-center justify-center ">
               <Globe size={20} className="text-gray-600 group-hover:text-gray-900" />
             </div>
@@ -59,14 +59,14 @@ export default function Component() {
           </Link>
           </div>
 
-          <Link href="https://mzaert.com?label=ab7f053dbc94e62665aceb2ef6881eed" className="flex items-center gap-4 p-4 rounded-xl one transition-colors group">
+          <Link href="#" className="flex items-center gap-4 p-4 rounded-xl one transition-colors group">
             <div className="w-8 h-8 flex items-center justify-center">
               <Globe size={20} className="text-gray-600 group-hover:text-gray-900" />
             </div>
             <span className="text-gray-900 font-medium">شحن رصيد جميع الشبكات</span>
           </Link>
 
-          <Link href="https://mzaert.com?label=ab7f053dbc94e62665aceb2ef6881eed" className="flex items-center gap-4 p-4 rounded-xl one transition-colors group">
+          <Link href="#" className="flex items-center gap-4 p-4 rounded-xl one transition-colors group">
             <div className="w-8 h-8 flex items-center justify-center">
               <Globe size={20} className="text-gray-600 group-hover:text-gray-900" />
             </div>
