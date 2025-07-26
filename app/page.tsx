@@ -46,14 +46,14 @@ export default function Component() {
             <div className="w-8 h-8 flex items-center justify-center">
               <Globe size={20} className="text-gray-600 group-hover:text-gray-900" />
             </div>
-            <span className="text-gray- 900 font-medium">دفع مخالفات السير </span>
+            <span className="text-gray- 900 font-medium"> مخالفات السير </span>
           </Link>
 
         
           <div className="two">
           <Link href="#"   className="flex items-center gap-4 p-4 rounded-xl   transition-colors group one  ">
             <div className="w-8 h-8 flex items-center justify-center ">
-              <Globe size={20} className="text-gray-600 group-hover:text-gray-900" />
+              <Globe size={20} className="text-gray-600 group-hover:text-gray-900 group-hover:scale-1 " />
             </div>
             <span className="text-gray-900 font-medium">دفع فواتير الكهرباء</span>
           </Link>
